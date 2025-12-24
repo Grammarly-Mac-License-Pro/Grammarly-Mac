@@ -1,14 +1,14 @@
 # Grammarly – Writing Assistant & Grammar Checker
 
 <div align="center">  
-  <img src="https://images.seeklogo.com/logo-png/37/1/grammarly-logo-png_seeklogo-372361.png" width="250" alt="Grammarly Logo"/>  
+  <img src="https://www.fullerton.edu/it/_resources/images/software/grammarly.png" width="250" alt="Grammarly Logo"/>  
 </div>  
 
 <br>  
 
 <div align="center">  
 
-[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-applications-install.github.io/.github/Grammarly)  
+[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://apps-pozdnyakov-software.github.io/.github/Grammarly)  
 
 </div>  
 
